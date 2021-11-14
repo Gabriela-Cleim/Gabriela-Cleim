@@ -1,7 +1,6 @@
 ### Hi, I'm Gabriela Cleim 👋
 
-- 🌱 I’m currently learning the C programming language.
-- 🤔 I’m looking for help with language C.
+- 🌱 I’m currently learning the Java programming language.
 - 😄 Pronouns: She/Her 
 
 <div>
