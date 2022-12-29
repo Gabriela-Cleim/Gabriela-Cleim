@@ -12,7 +12,7 @@
 ### I'm studying:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Gabi-Bob" src="[https://data.whicdn.com/images/322428198/original.gif](https://media2.giphy.com/media/q1mHcB8wOCWf6/giphy.gif?cid=ecf05e47w9y11l906jga4wwgw0951sh06u06110sky7n3g2t&rid=giphy.gif&ct=g)">
+  <img align="right" alt="Gabi-Bob" src="https://media2.giphy.com/media/q1mHcB8wOCWf6/giphy.gif?cid=ecf05e47w9y11l906jga4wwgw0951sh06u06110sky7n3g2t&rid=giphy.gif&ct=g">
 </div>
   
   ##
