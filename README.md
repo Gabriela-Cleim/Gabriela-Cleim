@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E0FFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Gabriela+Cleim;I+am+25+years+old;I+am+from+São+Paulo,+SP;I+am+a+junior+java+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/gabriela-cleims/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <div>
-  <img align="right" alt="Gabi-Bob" src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif"> 
+  <img align="right" alt="" src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif"> 
 </div>
 
 ### I'm studying:
@@ -22,7 +22,6 @@
 
 ### Main skills:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 
 ### Tools:
