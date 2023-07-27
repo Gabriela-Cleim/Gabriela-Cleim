@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/gabriela-cleims/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <div>
-  <img align="right" alt="Gabi-Bob" src="https://y.yarn.co/eef757f6-2404-40a4-8bc5-e6da3177e26c_text.gif"> 
+  <img align="right" alt="Gabi-Bob" src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif"> 
 </div>
 
 ### I'm studying:
