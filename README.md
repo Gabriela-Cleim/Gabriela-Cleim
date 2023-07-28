@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=130&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Gabriela+Cleim;I+am+25+years+old;I+am+from+São+Paulo,+SP;I+am+a+junior+java+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 
 ### My contacts
 <div>  
-  <a href = "mailto:gabriela.cleims@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriela.cleims@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-cleims/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 <div>
